@@ -1,8 +1,9 @@
-### Hey, I'm Jason.
+Practical tools for people who manage too much context.
 
-I've spent the last 15 years advising executives and senior leaders. Now I'm building tools that run my practice — capture, knowledge management, and the automation layer between them.
+**[Tome](https://github.com/Gremble-io/Tome)** — Meeting transcription that runs on your Mac, outputs markdown, and stays out of your way. Open source.
 
-[Tome](https://github.com/Gremble-io/Tome) is the current open-source project. Local meeting transcription on macOS that writes straight to an Obsidian vault. No cloud, no API keys.
+**OnRecord** — AI-powered media training for enterprise spokespeople. Private beta.
+
+Something else in the works. More on that soon.
 
 [gremble.io](https://gremble.io)
-
